@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mehedii1515
-- 👀 I’m interested in computer programming and web development
-- 🌱 I’m currently learning javascript
+- 👋 Hi, I’m Md Mehedi Hasan
+- 👀 I’m interested in computer programming, web development and machine learning
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
